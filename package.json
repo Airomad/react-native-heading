@@ -7,6 +7,6 @@
   },
   "license": "MIT",
   "keywords": ["react-native", "react-component"],
-  "main": "ReactNativeHeading",
+  "main": "index.js",
   "author": "Yonah Forst <yonaforst@hotmail.com>"
 }
